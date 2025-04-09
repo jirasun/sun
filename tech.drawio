@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="第 1 页" id="0UzyS3-ewtBV63V0uOD1">
-    <mxGraphModel>
+    <mxGraphModel dx="1020" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F-h4gFkWZBOA76sJjUIW-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="50" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="F-h4gFkWZBOA76sJjUIW-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="F-h4gFkWZBOA76sJjUIW-7">
+          <mxGeometry width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="F-h4gFkWZBOA76sJjUIW-3" value="加载地址&lt;div&gt;签名&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F-h4gFkWZBOA76sJjUIW-7">
+          <mxGeometry x="10" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F-h4gFkWZBOA76sJjUIW-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; background-color: rgb(255, 255, 255); display: inline !important;&quot;&gt;在线地址服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F-h4gFkWZBOA76sJjUIW-7">
+          <mxGeometry x="10" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F-h4gFkWZBOA76sJjUIW-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="170" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="F-h4gFkWZBOA76sJjUIW-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="F-h4gFkWZBOA76sJjUIW-8">
+          <mxGeometry width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="F-h4gFkWZBOA76sJjUIW-4" value="生成地址" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F-h4gFkWZBOA76sJjUIW-8">
+          <mxGeometry x="10" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F-h4gFkWZBOA76sJjUIW-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; background-color: rgb(255, 255, 255); display: inline !important;&quot;&gt;离线地址服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="F-h4gFkWZBOA76sJjUIW-8">
+          <mxGeometry x="10" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
